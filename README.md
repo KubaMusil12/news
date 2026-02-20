@@ -1,9 +1,6 @@
 
 <!DOCTYPE html>
 <html lang="cs">
-<head>
-    <title>Deník A(matéra)</title>
-</head>
 <body>
     <h1>Současná vláda chce zavést 75% slevy na jízdné, může to mít následky do budoucna?</h1>   
     <p>Dnes ministr dopravy Ivan Bednárik řekl ČTK, že by měly od 1. ledna 2027 platit 75% slevy na jízdné v MHD.
